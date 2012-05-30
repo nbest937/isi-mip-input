@@ -1,0 +1,6 @@
+either ~/.wgetrc must be created/edited and filled in with valid ISI-MIP credentials
+
+user = <user>
+password = <password>
+
+or an entry must be added to ~/.netrc
