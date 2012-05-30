@@ -21,7 +21,3 @@ rmzip:
 	find IPSL-CM5A-LR -regex '.*zip\(\?auth\)?$$' -execdir rm '{}' \;
 
 .PHONY: wget test unzip rmzip
-
-
-
-
